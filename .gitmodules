@@ -28,3 +28,6 @@
 [submodule "nifti2dicom"]
 	path = nifti2dicom
 	url = https://github.com/amine0110/nifti2dicom
+[submodule "Liver-Segmentation-Using-Monai-and-PyTorch"]
+	path = Liver-Segmentation-Using-Monai-and-PyTorch
+	url = https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch
