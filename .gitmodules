@@ -22,3 +22,6 @@
 [submodule "convert-images-from-dicom-into-jpg-or-png-images-using-pillow"]
 	path = convert-images-from-dicom-into-jpg-or-png-images-using-pillow
 	url = https://github.com/amine0110/convert-images-from-dicom-into-jpg-or-png-images-using-pillow
+[submodule "Medical-Conversions"]
+	path = Medical-Conversions
+	url = https://github.com/amine0110/Medical-Conversions
