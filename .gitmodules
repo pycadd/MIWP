@@ -25,3 +25,6 @@
 [submodule "Medical-Conversions"]
 	path = Medical-Conversions
 	url = https://github.com/amine0110/Medical-Conversions
+[submodule "nifti2dicom"]
+	path = nifti2dicom
+	url = https://github.com/amine0110/nifti2dicom
