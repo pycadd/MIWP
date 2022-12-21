@@ -16,3 +16,6 @@
 [submodule "data-augmentation-for-3D-volumes"]
 	path = data-augmentation-for-3D-volumes
 	url = https://github.com/amine0110/data-augmentation-for-3D-volumes
+[submodule "convert-a-group-of-dicom-images-into-jpg-images"]
+	path = convert-a-group-of-dicom-images-into-jpg-images
+	url = https://github.com/amine0110/convert-a-group-of-dicom-images-into-jpg-images
