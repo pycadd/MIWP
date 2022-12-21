@@ -13,3 +13,6 @@
 [submodule "convert-images-from-jpr-or-png-into-dicom"]
 	path = convert-images-from-jpr-or-png-into-dicom
 	url = https://github.com/amine0110/convert-images-from-jpr-or-png-into-dicom
+[submodule "data-augmentation-for-3D-volumes"]
+	path = data-augmentation-for-3D-volumes
+	url = https://github.com/amine0110/data-augmentation-for-3D-volumes
