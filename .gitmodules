@@ -19,3 +19,6 @@
 [submodule "convert-a-group-of-dicom-images-into-jpg-images"]
 	path = convert-a-group-of-dicom-images-into-jpg-images
 	url = https://github.com/amine0110/convert-a-group-of-dicom-images-into-jpg-images
+[submodule "convert-images-from-dicom-into-jpg-or-png-images-using-pillow"]
+	path = convert-images-from-dicom-into-jpg-or-png-images-using-pillow
+	url = https://github.com/amine0110/convert-images-from-dicom-into-jpg-or-png-images-using-pillow
