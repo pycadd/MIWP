@@ -1,3 +1,6 @@
 [submodule "preporcess-volume-medical-imaging"]
 	path = preporcess-volume-medical-imaging
 	url = https://github.com/amine0110/preporcess-volume-medical-imaging
+[submodule "best-python-libraries-for-medical-imaging"]
+	path = best-python-libraries-for-medical-imaging
+	url = https://github.com/amine0110/best-python-libraries-for-medical-imaging
