@@ -7,3 +7,6 @@
 [submodule "anonymize-dicoms"]
 	path = anonymize-dicoms
 	url = https://github.com/amine0110/anonymize-dicoms
+[submodule "nifti-to-stl"]
+	path = nifti-to-stl
+	url = https://github.com/amine0110/nifti-to-stl
